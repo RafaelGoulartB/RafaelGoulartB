@@ -15,8 +15,10 @@ Full Stack Developer and open source enthusiast from Brazil, I have 2+ years exp
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-![](https://komarev.com/ghpvc/?username=RafaelGoulartB&color=blue)
+  
+    
+      
+![](https://komarev.com/ghpvc/?username=RafaelGoulartB&label=Views&color=blue&style=plastic)
 
 <!--
 **RafaelGoulartB/RafaelGoulartB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

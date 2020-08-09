@@ -21,9 +21,17 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
-    
-      
+
+
+<details>
+  <summary>My Github Stats</summary>
+  <br>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGoulartB&show_icons=true&theme=dracula" alt="Rafael Goulart's Github Stats" alt="Rafael Goulart's Github Status" />
+  </p>
+</details>
+
 ![](https://komarev.com/ghpvc/?username=RafaelGoulartB&label=Views&color=blue&style=plastic)
 
 <!--

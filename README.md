@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goulartb/)](https://www.linkedin.com/in/rafael-goulartb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagoulartb@gmail.com)](mailto:rafagoulartb@gmail.com)
 [![GitHub RafaelGoulartB](https://img.shields.io/github/followers/RafaelGoulartB?label=follow&style=social)](https://github.com/RafaelGoulartB)
-<a href="https://open.spotify.com/user/sr.opresor?si=Nwjn9Y6RQ4S2WNtCe1ZSNg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-382110?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108674376-rafael-goulart)
 
 I'm Rafael, Full Stack Developer and open source enthusiast from Brazil, I have 2+ years experience in Front-end and Back-end.  
@@ -37,6 +36,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <!--
 **RafaelGoulartB/RafaelGoulartB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://open.spotify.com/user/sr.opresor?si=Nwjn9Y6RQ4S2WNtCe1ZSNg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 Here are some ideas to get you started:
 

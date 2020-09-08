@@ -32,7 +32,10 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
   </p>
 </details>
 
+<!--
 ![](https://komarev.com/ghpvc/?username=RafaelGoulartB&label=Views&color=blue&style=plastic)
+-->
+
 
 <!--
 

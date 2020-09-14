@@ -12,8 +12,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### :sparkles:  Seeking knowledge all the time
 
-- 🔭 I’m currently working on freelance projects: [Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09?ref=user_dropdown).    
-- 💬 Ask me anything <a href="https://github.com/RafaelGoulartB/RafaelGoulartB/issues/new"><b>here</b></a> or <a href="mailto:rafagoulartb@gmail.com"><b>email</b></a> me
+- 🔭 I’m currently working on freelance projects: **[Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09)** and **[Upwork](https://www.upwork.com/freelancers/~01311a2e119aeb7ca6)**.    
+- 💬 Ask me anything [here](https://github.com/RafaelGoulartB/RafaelGoulartB/issues/new) or [email](mailto:rafagoulartb@gmail.com) me
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>

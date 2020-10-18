@@ -31,23 +31,3 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGoulartB&show_icons=true&theme=dracula" alt="Rafael Goulart's Github Stats" alt="Rafael Goulart's Github Status" />
   </p>
 </details>
-
-<!--
-![](https://komarev.com/ghpvc/?username=RafaelGoulartB&label=Views&color=blue&style=plastic)
--->
-
-
-<!--
-
-<a href="https://open.spotify.com/user/sr.opresor?si=Nwjn9Y6RQ4S2WNtCe1ZSNg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

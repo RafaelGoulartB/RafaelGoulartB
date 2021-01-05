@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goulartb/)](https://www.linkedin.com/in/rafael-goulartb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagoulartb@gmail.com)](mailto:rafagoulartb@gmail.com)
-[![Goodreads Badge](https://img.shields.io/badge/Goodreads-382110?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108674376-rafael-goulart)
 [![GitHub RafaelGoulartB](https://img.shields.io/github/followers/RafaelGoulartB?label=follow&style=social)](https://github.com/RafaelGoulartB)
 
 I'm Rafael, Full Stack Developer and open source enthusiast from Brazil, I have 2+ years experience in Front-end and Back-end.  
@@ -28,3 +27,6 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGoulartB&show_icons=true&theme=dracula" alt="Rafael Goulart's Github Stats" alt="Rafael Goulart's Github Status" />
   </p>
 </details>
+
+
+<!--[![Goodreads Badge](https://img.shields.io/badge/Goodreads-382110?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108674376-rafael-goulart)-->

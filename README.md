@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagoulartb@gmail.com)](mailto:rafagoulartb@gmail.com)
 [![GitHub RafaelGoulartB](https://img.shields.io/github/followers/RafaelGoulartB?label=follow&style=social)](https://github.com/RafaelGoulartB)
 
-I'm Rafael, FrontEnd Developer passionate about the open-source world and developing solutions using technology, focused on solving problems in the areas of Web and Mobile.  
+I'm Rafael, Frontend Developer passionate about the open-source world and developing solutions using technology, focused on solving problems in the areas of Web and Mobile.  
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 

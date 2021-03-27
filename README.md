@@ -8,7 +8,7 @@ I'm Rafael, Frontend Developer passionate about the open-source world and develo
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 
-- 🔭 I’m currently working on freelance projects: **[Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09)**.    
+<!-- - 🔭 I’m currently working on freelance projects: **[Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09)**.    -->
 - 💬 Ask me anything [here](https://github.com/RafaelGoulartB/RafaelGoulartB/issues/new) or [email](mailto:rafagoulartb@gmail.com) me
 - :eyes: Check out my website: https://rafaelgoulartb.vercel.app/
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

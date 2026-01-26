@@ -8,8 +8,6 @@ I'm Rafael, Fullstack Developer passionate about the open-source world and devel
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 
-<!-- - 🔭 I’m currently working on freelance projects: **[Workana](https://www.workana.com/freelancer/d840a1aedff8a6e7bc21374e7ad11b09)**.    -->
-- 🔭 I’m currently working as FullStack Developer at [NuVidio](https://www.linkedin.com/company/nuvidio/)      
 - 💬 Ask me anything [here](https://github.com/RafaelGoulartB/RafaelGoulartB/issues/new) or [email](mailto:rafagoulartb@gmail.com) me
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -18,6 +16,17 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### 📂 Main Projects
+
+<p align="center">
+  <a href="https://github.com/RafaelGoulartB/next-ecommerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGoulartB&repo=next-ecommerce&theme=dracula" />
+  </a>
+  <a href="https://github.com/RafaelGoulartB/next-blog-cms">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGoulartB&repo=next-blog-cms&theme=dracula" />
+  </a>
+</p>
 
 <details>
   <summary>My Github Stats</summary>
